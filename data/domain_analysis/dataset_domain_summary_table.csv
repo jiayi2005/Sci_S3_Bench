@@ -1,0 +1,24 @@
+Dataset,Domain,Total,Forms
+ATLAS,Physics; Materials Science; Chemistry; Earth Science; Computer Science; Genomics; Life Sciences; Climate Science,704,open_ended 704
+Astro-QA,Astronomy,2016,"MCQA 1,699; judgment/true_false 317"
+BigCodeBench,Computer Science,1140,"code generation 1,140"
+BioASQ,Life Sciences,4719,"open_ended 4,719"
+ChemBench,Chemistry,2785,"MCQA 2,542; open_ended 243"
+ClimaQA_gold,Climate Science,473,MCQA 292; open_ended 181
+ClimaQA_silver,Climate Science,2000,"MCQA 1,000; open_ended 1,000"
+Earth-Gold,Earth Science; Climate Science; Life Sciences,300,multi-turn open dialogue 300
+Earth-Iron,Earth Science; Climate Science; Life Sciences,4133,"open_ended 2,000; MCQA 818; fill_blank 769; judgment/true_false 546"
+Earth-Silver,Earth Science; Climate Science; Life Sciences,1000,fill_blank 250; MCQA 250; open_ended 250; judgment/true_false 250
+GeneTuring,Genomics,"3,302 unique questions / 16,101 raw records","open generation/extraction 3,302"
+Genome-Bench,Genomics,661,MCQA 661
+Lab-Bench,Life Sciences,1116,"MCQA 1,116"
+MaScQA,Materials Science,285,MCQA 285
+MedMCQA,Clinical Medicine,193155,"MCQA 193,155"
+MedQA_USMLE,Clinical Medicine,12723,"MCQA 12,723"
+MedXpertQA,Clinical Medicine,2450,"MCQA 2,450"
+PHYBench,Physics,100,open_ended 100
+PubMedQA,Clinical Medicine,1000,"MCQA 1,000"
+QCBench,Chemistry,350,open numeric/short answer 350
+SciCode,Computer Science,80,code generation 80
+SciKnowEval,Chemistry; Materials Science; Life Sciences; Physics,22620,"MCQA 22,620"
+UGPhysics,Physics,74,open_ended 74

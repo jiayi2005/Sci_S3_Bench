@@ -1,0 +1,52 @@
+# Ignore everything by default except curated benchmark artifacts.
+*
+
+# Keep repository metadata/docs.
+!.gitignore
+!README.md
+
+# Keep selected data/analysis tree skeleton.
+!data/
+!data/domain_analysis/
+!data/domain_analysis/scripts/
+!data/domain_analysis/scripts/*.py
+!data/domain_analysis/*.csv
+!data/domain_analysis/*.md
+
+!data/speech_sensitive_selection_v3_no_codegen_filtered/
+!data/speech_sensitive_selection_v3_no_codegen_filtered/selected_filtered.jsonl
+!data/speech_sensitive_selection_v3_no_codegen_filtered/*.csv
+!data/speech_sensitive_selection_v3_no_codegen_filtered/*.md
+
+# Explicitly exclude raw datasets and intermediate outputs.
+data/MedMCQA/
+data/MedQA_USMLE/
+data/PubMedQA/
+data/CSBench_MCQ/
+data/Cybersecurity_QA/
+data/ATLAS/
+data/EarthSE/
+data/GeneTuring/
+data/QCBench/
+data/GigaSpeech/
+data/BigCodeBench/
+data/SciCode/
+data/Science_S2S_Bench/
+data/speech_sensitive_selection/
+data/speech_sensitive_selection_v3/
+data/speech_sensitive_selection_v3_no_codegen/
+
+# Exclude intermediate JSONL artifacts in final output directory.
+data/speech_sensitive_selection_v3_no_codegen_filtered/selected_filtered.before_*.jsonl
+data/speech_sensitive_selection_v3_no_codegen_filtered/rejected_*.jsonl
+data/speech_sensitive_selection_v3_no_codegen_filtered/csbench_candidates_scored.jsonl
+data/speech_sensitive_selection_v3_no_codegen_filtered/csbench_rejected.jsonl
+data/speech_sensitive_selection_v3_no_codegen_filtered/csbench_selected.jsonl
+data/speech_sensitive_selection_v3_no_codegen_filtered/computer_science_selected_sources.jsonl
+data/speech_sensitive_selection_v3_no_codegen_filtered/cybersecurity_*.jsonl
+
+# Runtime/cache artifacts.
+__pycache__/
+*.py[cod]
+.cache/
+.DS_Store

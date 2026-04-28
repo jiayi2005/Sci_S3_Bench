@@ -1,0 +1,8 @@
+question_type,selected_count,share
+MCQA,3601,0.6308
+Open-ended,1195,0.2093
+Open generation/extraction,402,0.0704
+Open-ended dialogue,145,0.0254
+Open numeric/short answer,142,0.0249
+Fill-in-the-blank,113,0.0198
+True/False,111,0.0194

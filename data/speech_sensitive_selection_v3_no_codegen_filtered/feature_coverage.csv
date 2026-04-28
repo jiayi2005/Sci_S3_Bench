@@ -1,0 +1,10 @@
+feature,selected_count,share
+spoken_written_mismatch,5706,0.9995
+abbreviation,5319,0.9317
+weak_oov_min10,4889,0.8564
+strong_oov_min1,4773,0.836
+formula_or_expression,2904,0.5087
+unit,1718,0.3009
+gene_or_sequence,1212,0.2123
+computer_science_term,422,0.0739
+code_expression,22,0.0039

@@ -1,0 +1,44 @@
+bucket,name,count
+final_domain,Chemistry,782
+final_domain,Clinical Medicine,691
+final_domain,Genomics,663
+final_domain,Climate Science,645
+final_domain,Materials Science,613
+final_domain,Life Sciences,610
+final_domain,Physics,573
+final_domain,Earth Science,562
+final_domain,Computer Science,400
+final_domain,Astronomy,124
+final_dataset,SciKnowEval,1340
+final_dataset,EarthSE_Earth-Iron,654
+final_dataset,MedMCQA,414
+final_dataset,GeneTuring,402
+final_dataset,CSBench_MCQ,388
+final_dataset,BioASQ,276
+final_dataset,ChemBench,270
+final_dataset,EarthSE_Earth-Silver,254
+final_dataset,Genome-Bench,250
+final_dataset,ClimaQA_silver,206
+final_dataset,ATLAS,179
+final_dataset,EarthSE_Earth-Gold,145
+final_dataset,QCBench,142
+final_dataset,MedQA_USMLE,129
+final_dataset,Astro-QA,124
+final_dataset,Lab-Bench,118
+final_dataset,PHYBench,94
+final_dataset,MedXpertQA,82
+final_dataset,ClimaQA_gold,69
+final_dataset,PubMedQA,66
+final_dataset,MaScQA,58
+final_dataset,UGPhysics,3
+csbench_area_selected,Computer Network,97
+csbench_area_selected,Computer Organization,97
+csbench_area_selected,Data Structure and Algorithm,97
+csbench_area_selected,Operating System,97
+final_question_type,MCQA,3555
+final_question_type,Open-ended,1195
+final_question_type,Open generation/extraction,402
+final_question_type,Open-ended dialogue,145
+final_question_type,Open numeric/short answer,142
+final_question_type,Fill-in-the-blank,113
+final_question_type,True/False,111

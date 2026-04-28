@@ -1,0 +1,33 @@
+dataset,question_type,selected_count,share_within_dataset,share_total
+ATLAS,Open-ended,179,1.0,0.0314
+Astro-QA,MCQA,119,0.9597,0.0208
+Astro-QA,True/False,5,0.0403,0.0009
+BioASQ,Open-ended,276,1.0,0.0483
+CSBench_MCQ,MCQA,434,1.0,0.076
+ChemBench,MCQA,192,0.7111,0.0336
+ChemBench,Open-ended,78,0.2889,0.0137
+ClimaQA_gold,MCQA,41,0.5942,0.0072
+ClimaQA_gold,Open-ended,28,0.4058,0.0049
+ClimaQA_silver,MCQA,126,0.6117,0.0221
+ClimaQA_silver,Open-ended,80,0.3883,0.014
+EarthSE_Earth-Gold,Open-ended dialogue,145,1.0,0.0254
+EarthSE_Earth-Iron,Open-ended,377,0.5765,0.066
+EarthSE_Earth-Iron,MCQA,154,0.2355,0.027
+EarthSE_Earth-Iron,Fill-in-the-blank,67,0.1024,0.0117
+EarthSE_Earth-Iron,True/False,56,0.0856,0.0098
+EarthSE_Earth-Silver,Open-ended,80,0.315,0.014
+EarthSE_Earth-Silver,MCQA,78,0.3071,0.0137
+EarthSE_Earth-Silver,True/False,50,0.1969,0.0088
+EarthSE_Earth-Silver,Fill-in-the-blank,46,0.1811,0.0081
+GeneTuring,Open generation/extraction,402,1.0,0.0704
+Genome-Bench,MCQA,250,1.0,0.0438
+Lab-Bench,MCQA,118,1.0,0.0207
+MaScQA,MCQA,58,1.0,0.0102
+MedMCQA,MCQA,414,1.0,0.0725
+MedQA_USMLE,MCQA,129,1.0,0.0226
+MedXpertQA,MCQA,82,1.0,0.0144
+PHYBench,Open-ended,94,1.0,0.0165
+PubMedQA,MCQA,66,1.0,0.0116
+QCBench,Open numeric/short answer,142,1.0,0.0249
+SciKnowEval,MCQA,1340,1.0,0.2347
+UGPhysics,Open-ended,3,1.0,0.0005

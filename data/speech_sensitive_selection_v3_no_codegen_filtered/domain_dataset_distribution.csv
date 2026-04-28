@@ -1,0 +1,39 @@
+domain,dataset,selected_count,share_within_domain,share_total
+Astronomy,Astro-QA,124,1.0,0.0217
+Chemistry,SciKnowEval,335,0.4284,0.0587
+Chemistry,ChemBench,270,0.3453,0.0473
+Chemistry,QCBench,142,0.1816,0.0249
+Chemistry,ATLAS,35,0.0448,0.0061
+Climate Science,EarthSE_Earth-Iron,235,0.3643,0.0412
+Climate Science,ClimaQA_silver,206,0.3194,0.0361
+Climate Science,EarthSE_Earth-Silver,99,0.1535,0.0173
+Climate Science,ClimaQA_gold,69,0.107,0.0121
+Climate Science,EarthSE_Earth-Gold,35,0.0543,0.0061
+Climate Science,ATLAS,1,0.0016,0.0002
+Clinical Medicine,MedMCQA,414,0.5991,0.0725
+Clinical Medicine,MedQA_USMLE,129,0.1867,0.0226
+Clinical Medicine,MedXpertQA,82,0.1187,0.0144
+Clinical Medicine,PubMedQA,66,0.0955,0.0116
+Computer Science,CSBench_MCQ,434,0.9731,0.076
+Computer Science,ATLAS,12,0.0269,0.0021
+Earth Science,EarthSE_Earth-Iron,344,0.6121,0.0603
+Earth Science,EarthSE_Earth-Silver,121,0.2153,0.0212
+Earth Science,EarthSE_Earth-Gold,90,0.1601,0.0158
+Earth Science,ATLAS,7,0.0125,0.0012
+Genomics,GeneTuring,402,0.6063,0.0704
+Genomics,Genome-Bench,250,0.3771,0.0438
+Genomics,ATLAS,11,0.0166,0.0019
+Life Sciences,BioASQ,276,0.4525,0.0483
+Life Sciences,Lab-Bench,118,0.1934,0.0207
+Life Sciences,SciKnowEval,77,0.1262,0.0135
+Life Sciences,EarthSE_Earth-Iron,75,0.123,0.0131
+Life Sciences,EarthSE_Earth-Silver,34,0.0557,0.006
+Life Sciences,EarthSE_Earth-Gold,20,0.0328,0.0035
+Life Sciences,ATLAS,10,0.0164,0.0018
+Materials Science,SciKnowEval,513,0.8369,0.0899
+Materials Science,MaScQA,58,0.0946,0.0102
+Materials Science,ATLAS,42,0.0685,0.0074
+Physics,SciKnowEval,415,0.7243,0.0727
+Physics,PHYBench,94,0.164,0.0165
+Physics,ATLAS,61,0.1065,0.0107
+Physics,UGPhysics,3,0.0052,0.0005

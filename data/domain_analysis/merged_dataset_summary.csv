@@ -1,0 +1,24 @@
+dataset,domains,total_records,question_like_count,forms,notes
+ATLAS,Physics; Materials Science; Chemistry; Earth Science; Computer Science; Genomics; Life Sciences; Climate Science,798,704,Open-ended:704,Excluded 94 Mathematics records to keep the fixed 10-domain taxonomy.
+Astro-QA,Astronomy,2016,2016,MCQA:1699; True/False:317,
+BigCodeBench,Computer Science,1140,1140,Code generation:1140,Counted only v0.1.4-00000-of-00001.parquet to avoid duplicate version snapshots.
+BioASQ,Life Sciences,4719,4719,Open-ended:4719,
+ChemBench,Chemistry,2785,2785,MCQA:2542; Open-ended:243,
+ClimaQA_gold,Climate Science,473,473,MCQA:292; Open-ended:181,
+ClimaQA_silver,Climate Science,2000,2000,MCQA:1000; Open-ended:1000,
+EarthSE_Earth-Gold,Earth Science; Climate Science; Life Sciences,300,300,Open-ended dialogue:300,
+EarthSE_Earth-Iron,Earth Science; Climate Science; Life Sciences,4133,4133,Open-ended:2000; MCQA:818; Fill-in-the-blank:769; True/False:546,
+EarthSE_Earth-Silver,Earth Science; Climate Science; Life Sciences,1000,1000,Fill-in-the-blank:250; MCQA:250; Open-ended:250; True/False:250,
+GeneTuring,Genomics,16101,3302,Open generation/extraction:3302,Raw CSV rows: 16101; unique questions: 3302. Subdomain/domain count uses unique questions.
+Genome-Bench,Genomics,661,661,MCQA:661,
+Lab-Bench,Life Sciences,1116,1116,MCQA:1116,
+MaScQA,Materials Science,285,285,MCQA:285,
+MedMCQA,Clinical Medicine,193155,193155,MCQA:193155,
+MedQA_USMLE,Clinical Medicine,12723,12723,MCQA:12723,
+MedXpertQA,Clinical Medicine,2450,2450,MCQA:2450,
+PHYBench,Physics,100,100,Open-ended:100,
+PubMedQA,Clinical Medicine,1000,1000,MCQA:1000,
+QCBench,Chemistry,350,350,Open numeric/short answer:350,
+SciCode,Computer Science,80,80,Code generation:80,
+SciKnowEval,Chemistry; Materials Science; Life Sciences; Physics,22620,22620,MCQA:22620,
+UGPhysics,Physics,74,74,Open-ended:74,

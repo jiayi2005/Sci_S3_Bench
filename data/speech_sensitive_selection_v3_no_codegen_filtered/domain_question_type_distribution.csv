@@ -1,0 +1,31 @@
+domain,question_type,selected_count,share_within_domain,share_total
+Astronomy,MCQA,119,0.9597,0.0208
+Astronomy,True/False,5,0.0403,0.0009
+Chemistry,MCQA,527,0.6739,0.0923
+Chemistry,Open numeric/short answer,142,0.1816,0.0249
+Chemistry,Open-ended,113,0.1445,0.0198
+Climate Science,Open-ended,286,0.4434,0.0501
+Climate Science,MCQA,242,0.3752,0.0424
+Climate Science,Fill-in-the-blank,42,0.0651,0.0074
+Climate Science,True/False,40,0.062,0.007
+Climate Science,Open-ended dialogue,35,0.0543,0.0061
+Clinical Medicine,MCQA,691,1.0,0.121
+Computer Science,MCQA,434,0.9731,0.076
+Computer Science,Open-ended,12,0.0269,0.0021
+Earth Science,Open-ended,240,0.427,0.042
+Earth Science,MCQA,124,0.2206,0.0217
+Earth Science,Open-ended dialogue,90,0.1601,0.0158
+Earth Science,True/False,55,0.0979,0.0096
+Earth Science,Fill-in-the-blank,53,0.0943,0.0093
+Genomics,Open generation/extraction,402,0.6063,0.0704
+Genomics,MCQA,250,0.3771,0.0438
+Genomics,Open-ended,11,0.0166,0.0019
+Life Sciences,Open-ended,333,0.5459,0.0583
+Life Sciences,MCQA,228,0.3738,0.0399
+Life Sciences,Open-ended dialogue,20,0.0328,0.0035
+Life Sciences,Fill-in-the-blank,18,0.0295,0.0032
+Life Sciences,True/False,11,0.018,0.0019
+Materials Science,MCQA,571,0.9315,0.1
+Materials Science,Open-ended,42,0.0685,0.0074
+Physics,MCQA,415,0.7243,0.0727
+Physics,Open-ended,158,0.2757,0.0277
