@@ -1,0 +1,264 @@
+domain,subdomain,count,correct,accuracy,invalid_or_error
+Physics,Physics Literature Qa,255,219,0.858824,1
+Genomics,Genome Protocol Qa,250,165,0.660000,0
+Materials Science,Eah And Fe Analysis,232,98,0.422414,2
+Climate Science,Climate Science,167,143,0.856287,0
+Chemistry,Reaction Pred Mcq,144,135,0.937500,1
+Materials Science,Material Data Extraction,137,133,0.970803,0
+Clinical Medicine,Medical Exam Qa,129,74,0.573643,0
+Astronomy,Astronomy General,119,80,0.672269,0
+Life Sciences,Biomedical Laboratory,118,38,0.322034,0
+Physics,Physics Detailed Understanding,83,82,0.987952,0
+Clinical Medicine,Clinical Specialist Qa,82,9,0.109756,0
+Chemistry,Lipophilicity Value Prediction,75,47,0.626667,0
+Clinical Medicine,Biomedical Literature Qa,66,48,0.727273,0
+Materials Science,Materials Science General,58,43,0.741379,0
+Clinical Medicine,Medicine,57,47,0.824561,0
+Computer Science,Computer Network: Network Layer,56,49,0.875000,0
+Materials Science,Safety Mcq,55,51,0.927273,0
+Physics,Security Mcq,55,49,0.890909,0
+Chemistry,Organic Chemistry,53,36,0.679245,0
+Chemistry,Chemical Preference,50,20,0.400000,0
+Computer Science,Computer Network: Data Link Layer,44,37,0.840909,0
+Materials Science,Material Detailed Understanding,43,39,0.906977,0
+Chemistry,S2W,40,18,0.450000,0
+Computer Science,Computer Network: Transport Layer,32,29,0.906250,0
+Materials Science,Valence Electron Difference Calculation,31,14,0.451613,0
+Computer Science,Computer Network: Application Layer,29,26,0.896552,0
+Earth Science,Ocean Physics,29,21,0.724138,0
+Computer Science,Computer Organization: Instruction System,28,22,0.785714,0
+Chemistry,General Chemistry,25,16,0.640000,0
+Computer Science,Computer Organization: Storage System,25,15,0.600000,0
+Chemistry,Analytical Chemistry,24,12,0.500000,0
+Climate Science,Climatology,21,15,0.714286,0
+Life Sciences,Bio Rxiv Qa,21,15,0.714286,0
+Chemistry,Retrosynthesis Mcq,20,16,0.800000,0
+Clinical Medicine,Surgery,20,15,0.750000,0
+Clinical Medicine,Pathology,19,15,0.789474,0
+Computer Science,Operating System: Processes and Threads,19,12,0.631579,0
+Computer Science,Computer Organization: Input/Output System,18,15,0.833333,0
+Life Sciences,Aquatic Ecology And Limnological Ecology,18,14,0.777778,0
+Computer Science,Computer Network: Overview and Architecture,17,16,0.941176,0
+Computer Science,Computer Organization: Central Processing Unit,17,13,0.764706,0
+Earth Science,Mineralogy And Petrology,17,16,0.941176,0
+Clinical Medicine,Pathology: Blood,16,15,0.937500,0
+Computer Science,Computer Organization: Data Representation and Operation,16,11,0.687500,0
+Physics,General Physics Calculation,16,12,0.750000,0
+Chemistry,Physical Chemistry,14,10,0.714286,0
+Chemistry,S2 Hbonddonor,14,2,0.142857,0
+Computer Science,"Data Structure and Algorithm: Stack, Queue, and Array",14,11,0.785714,0
+Chemistry,Inorganic Chemistry,13,10,0.769231,0
+Clinical Medicine,Dental,13,7,0.538462,0
+Life Sciences,Gb1 Ftness Prediction,13,4,0.307692,0
+Clinical Medicine,Gynaecology & Obstetrics,12,10,0.833333,0
+Computer Science,Computer Organization: Bus,12,10,0.833333,0
+Life Sciences,Detailed Understanding,12,12,1.000000,0
+Chemistry,Detailed Understanding,11,11,1.000000,0
+Climate Science,Atmospheric Remote Sensing,11,6,0.545455,0
+Computer Science,Data Structure and Algorithm: Linear List,11,7,0.636364,0
+Computer Science,Operating System: Memory Management,11,11,1.000000,0
+Materials Science,Material Literature Qa,11,9,0.818182,0
+Climate Science,Atmospheric Chemistry,10,9,0.900000,0
+Clinical Medicine,Physiology,10,6,0.600000,0
+Computer Science,Data Structure and Algorithm: Sorting,10,9,0.900000,0
+Computer Science,Operating System: Input/Output Management,10,6,0.600000,0
+Earth Science,Sedimentology,10,8,0.800000,0
+Life Sciences,Pub Med Qa,10,9,0.900000,0
+Chemistry,S2 Rotbonds,9,2,0.222222,0
+Climate Science,Meteorology,9,6,0.666667,0
+Computer Science,Computer Network: Physical Layer,9,7,0.777778,0
+Computer Science,Computer Organization: Overview,9,8,0.888889,0
+Computer Science,Data Structure and Algorithm: Searching,9,6,0.666667,0
+Chemistry,Toxicity And Safety,8,8,1.000000,0
+Climate Science,Numerical Weather Prediction And Simulation,8,7,0.875000,0
+Clinical Medicine,Pathology: Kidney,8,7,0.875000,0
+Clinical Medicine,Pediatrics,8,7,0.875000,0
+Clinical Medicine,Pharmacology,8,4,0.500000,0
+Earth Science,Physical Geography,8,6,0.750000,0
+Life Sciences,Protocol Qa,8,6,0.750000,0
+Clinical Medicine,Anaesthesia,7,4,0.571429,0
+Clinical Medicine,Anaesthesia: Miscellaneous,7,5,0.714286,0
+Clinical Medicine,Medicine: Kidney,7,7,1.000000,0
+Computer Science,Operating System: File Management,7,2,0.285714,0
+Computer Science,Operating System: Overview,7,5,0.714286,0
+Earth Science,Hydrological Measurement,7,6,0.857143,0
+Chemistry,S2 Hbondacc,6,3,0.500000,0
+Clinical Medicine,Medicine: Respiratory System,6,5,0.833333,0
+Earth Science,Groundwater Hydrology,6,6,1.000000,0
+Earth Science,River Hydrology And Estuarine Hydrology,6,4,0.666667,0
+Life Sciences,Biogeochemistry,6,6,1.000000,0
+Life Sciences,Ecosystem Ecology,6,5,0.833333,0
+Life Sciences,Proteotoxicity Prediction Mcq,6,3,0.500000,0
+Physics,Laboratory Safety Test Mcq,6,6,1.000000,0
+Chemistry,Bioinspiredllm Qa,5,5,1.000000,0
+Chemistry,Materials Science,5,3,0.600000,0
+Climate Science,Atmospheric Physics,5,5,1.000000,0
+Climate Science,Glaciology,5,5,1.000000,0
+Clinical Medicine,Medicine: Abg Analysis Simplified,5,4,0.800000,0
+Clinical Medicine,Medicine: C.V.S.,5,5,1.000000,0
+Clinical Medicine,Pathology: Respiration,5,4,0.800000,0
+Clinical Medicine,Social & Preventive Medicine,5,4,0.800000,0
+Computer Science,Data Structure and Algorithm: Tree,5,3,0.600000,0
+Clinical Medicine,Biochemistry,4,2,0.500000,0
+Clinical Medicine,Medicine: All India Exam,4,2,0.500000,0
+Clinical Medicine,Medicine: Blood,4,3,0.750000,0
+Clinical Medicine,Medicine: Fluid & Electrolyte,4,3,0.750000,0
+Clinical Medicine,Medicine: Respiratory,4,4,1.000000,0
+Clinical Medicine,Microbiology,4,4,1.000000,0
+Clinical Medicine,Physiology: Respiratory System,4,2,0.500000,0
+Clinical Medicine,"Surgery: Wounds, Tissue Repair & Scars",4,1,0.250000,0
+Clinical Medicine,Unknown,4,2,0.500000,0
+Computer Science,Data Structure and Algorithm: Graph,4,4,1.000000,0
+Computer Science,Data Structure and Algorithm: Overview,4,2,0.500000,0
+Chemistry,Chem Rxiv Qa,3,3,1.000000,0
+Clinical Medicine,Medicine: Endocrinology,3,2,0.666667,0
+Clinical Medicine,Pathology: C.V.S,3,2,0.666667,0
+Clinical Medicine,Pathology: Endocrine,3,3,1.000000,0
+Clinical Medicine,Pathology: Immunity,3,3,1.000000,0
+Clinical Medicine,Pathology: Misc.,3,3,1.000000,0
+Clinical Medicine,Pediatrics: Respiratory System,3,2,0.666667,0
+Clinical Medicine,Unknown: Integrated Q Bank,3,2,0.666667,0
+Computer Science,Data Structure and Algorithm: String,3,2,0.666667,0
+Earth Science,Computational Geophysics,3,3,1.000000,0
+Earth Science,Geomagnetism,3,3,1.000000,0
+Earth Science,Ocean Chemistry,3,3,1.000000,0
+Earth Science,Other Disciplines In Geography,3,3,1.000000,0
+Earth Science,Quaternary Geology,3,3,1.000000,0
+Earth Science,Seismology,3,3,1.000000,0
+Life Sciences,Bioinspiredllm Qa,3,3,1.000000,0
+Life Sciences,Chem Rxiv Qa,3,3,1.000000,0
+Chemistry,I2W,2,1,0.500000,0
+Chemistry,Protocol Qa,2,0,0.000000,0
+Chemistry,Reaction Mechanism Inference,2,2,1.000000,0
+Climate Science,Hydrological Meteorology,2,2,1.000000,0
+Climate Science,Paleoclimatology,2,1,0.500000,0
+Clinical Medicine,Anaesthesia: Preoperative Assessment And Monitoring In Anaesthesia,2,0,0.000000,0
+Clinical Medicine,Medicine: Acute Coronary Syndrome,2,2,1.000000,0
+Clinical Medicine,Medicine: Diabetes Mellitus,2,1,0.500000,0
+Clinical Medicine,Medicine: Fluid And Electrolytes,2,0,0.000000,0
+Clinical Medicine,Medicine: Haematology,2,1,0.500000,0
+Clinical Medicine,Medicine: Immune System,2,1,0.500000,0
+Clinical Medicine,Medicine: Miscellaneous,2,2,1.000000,0
+Clinical Medicine,Medicine: Oncology,2,2,1.000000,0
+Clinical Medicine,Microbiology: Bacteria,2,2,1.000000,0
+Clinical Medicine,Microbiology: Misc.,2,2,1.000000,0
+Clinical Medicine,Pathology: Iron Deficiency Anemia,2,2,1.000000,0
+Clinical Medicine,"Physiology: Excretory System ( Kidney, Bladder) Acid Base Balance",2,2,1.000000,0
+Clinical Medicine,Physiology: Neet Jan 2020,2,2,1.000000,0
+Clinical Medicine,Physiology: Renal Physiology,2,2,1.000000,0
+Clinical Medicine,Physiology: Respiratory System Pa 2,2,0,0.000000,0
+Clinical Medicine,Social & Preventive Medicine: Environment And Health,2,1,0.500000,0
+Clinical Medicine,Surgery: Trauma,2,1,0.500000,0
+Earth Science,Environmental Geology,2,0,0.000000,0
+Earth Science,Geomorphology,2,0,0.000000,0
+Earth Science,Limnology,2,1,0.500000,0
+Earth Science,Ocean Geology,2,1,0.500000,0
+Earth Science,Remote Sensing Oceanography,2,1,0.500000,0
+Earth Science,Tectonophysics,2,2,1.000000,0
+Life Sciences,Community Ecology,2,2,1.000000,0
+Chemistry,I2 Heavyatoms,1,0,0.000000,0
+Chemistry,Laboratory Safety Test Mcq,1,1,1.000000,0
+Climate Science,Hydrometeorology,1,1,1.000000,0
+Climate Science,Polar Climate Science,1,1,1.000000,0
+Clinical Medicine,Anaesthesia: All India Exam,1,1,1.000000,0
+Clinical Medicine,Anaesthesia: General Anaesthesia,1,1,1.000000,0
+Clinical Medicine,Anaesthesia: Intravenous Anesthetic Agents,1,0,0.000000,0
+Clinical Medicine,Anatomy,1,0,0.000000,0
+Clinical Medicine,Anatomy: G.I.T,1,1,1.000000,0
+Clinical Medicine,Anatomy: Respiratory System,1,1,1.000000,0
+Clinical Medicine,Biochemistry: Metabolism Of Nucleic Acids,1,1,1.000000,0
+Clinical Medicine,Biochemistry: Miscellaneous ( Bio Chemistry),1,1,1.000000,0
+Clinical Medicine,Biochemistry: Nucleotides,1,1,1.000000,0
+Clinical Medicine,Dental: Skin Lesions And Disorders Of Pigmentation,1,1,1.000000,0
+Clinical Medicine,Forensic Medicine,1,1,1.000000,0
+Clinical Medicine,Forensic Medicine: All India Exam,1,0,0.000000,0
+Clinical Medicine,Forensic Medicine: Identification,1,1,1.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Abnormality Of Puerperium,1,0,0.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Aiims 2019,1,0,0.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Complication Of 3 Rd Stage Of Labour,1,1,1.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Disorders In Menstruation,1,0,0.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Fmge 2018,1,0,0.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Gynaecological Oncology,1,1,1.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Gynaecology,1,0,0.000000,0
+Clinical Medicine,"Gynaecology & Obstetrics: Medical, Surgical And Gynaecological Illness Complicating Pregnancy",1,1,1.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Obstetrics,1,1,1.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Physiological Changes During Pregnancy,1,1,1.000000,0
+Clinical Medicine,Gynaecology & Obstetrics: Physiology & Histology,1,1,1.000000,0
+Clinical Medicine,Medicine: Aiims 2019,1,0,0.000000,0
+Clinical Medicine,Medicine: Brain Hemorrhage,1,0,0.000000,0
+Clinical Medicine,Medicine: Budd Chiari Syndrome & Pancreatitis,1,1,1.000000,0
+Clinical Medicine,Medicine: Copd And Asthma,1,1,1.000000,0
+Clinical Medicine,Medicine: Cvs,1,0,0.000000,0
+Clinical Medicine,Medicine: Disorders Of Ventilation,1,1,1.000000,0
+Clinical Medicine,Medicine: Electrolyte Imbalance,1,1,1.000000,0
+Clinical Medicine,Medicine: Fluids And Electrolyte Imbalance,1,1,1.000000,0
+Clinical Medicine,Medicine: G.I.T,1,0,0.000000,0
+Clinical Medicine,Medicine: Hepatitis,1,1,1.000000,0
+Clinical Medicine,Medicine: Infection,1,1,1.000000,0
+Clinical Medicine,Medicine: Jipmer 2018,1,1,1.000000,0
+Clinical Medicine,Medicine: Malabsorbtion Syndrome,1,1,1.000000,0
+Clinical Medicine,Medicine: Misc.,1,1,1.000000,0
+Clinical Medicine,Medicine: Rheumatic Hea Disease & Infective Endocarditis,1,1,1.000000,0
+Clinical Medicine,Medicine: Stroke And Tia,1,1,1.000000,0
+Clinical Medicine,Medicine: Systemic Lupus Erythematous,1,1,1.000000,0
+Clinical Medicine,Medicine: Thromboembolism And Fat Embolism Syndrome,1,1,1.000000,0
+Clinical Medicine,Medicine: Valvular Hea Diseases,1,0,0.000000,0
+Clinical Medicine,Microbiology: Bacteriology,1,1,1.000000,0
+Clinical Medicine,Microbiology: General Microbiology ( Sterilization And Bacterial Genetics),1,1,1.000000,0
+Clinical Medicine,Microbiology: Virology,1,1,1.000000,0
+Clinical Medicine,Ophthalmology,1,1,1.000000,0
+Clinical Medicine,Orthopaedics,1,1,1.000000,0
+Clinical Medicine,Orthopaedics: Lower Limb Traumatology,1,0,0.000000,0
+Clinical Medicine,Pathology: Acute Lymphoblastic Leukemia,1,1,1.000000,0
+Clinical Medicine,Pathology: All India Exam,1,1,1.000000,0
+Clinical Medicine,Pathology: Blood Vessels,1,1,1.000000,0
+Clinical Medicine,Pathology: Breast,1,1,1.000000,0
+Clinical Medicine,Pathology: Cellular Pathology,1,1,1.000000,0
+Clinical Medicine,Pathology: Chronic Myelogenous Leukemia,1,1,1.000000,0
+Clinical Medicine,Pathology: Environment & Nutritional Pathology,1,1,1.000000,0
+Clinical Medicine,Pathology: G.I.T.,1,1,1.000000,0
+Clinical Medicine,Pathology: General Pathology,1,0,0.000000,0
+Clinical Medicine,Pathology: Genetics,1,1,1.000000,0
+Clinical Medicine,Pathology: Hemolytic Anemias: Basic Concepts And Classification,1,1,1.000000,0
+Clinical Medicine,Pathology: Infectious Disease,1,1,1.000000,0
+Clinical Medicine,Pathology: Inflammation & Repair,1,1,1.000000,0
+Clinical Medicine,"Pathology: Intestinal Polyps, Colon & Anal Cancer",1,1,1.000000,0
+Clinical Medicine,Pathology: Misc. (R.B.C),1,1,1.000000,0
+Clinical Medicine,Pathology: Misc. (W.B.C),1,1,1.000000,0
+Clinical Medicine,Pathology: Musculoskeletal System,1,1,1.000000,0
+Clinical Medicine,Pathology: Neoplasia,1,1,1.000000,0
+Clinical Medicine,Pathology: Pancreas,1,1,1.000000,0
+Clinical Medicine,Pathology: Pulmonary Tuberculosis And Lung Abscess,1,1,1.000000,0
+Clinical Medicine,Pediatrics: All India Exam,1,0,0.000000,0
+Clinical Medicine,Pediatrics: Disorders Of Gastrointestinal System Including Diarrhea,1,0,0.000000,0
+Clinical Medicine,Pediatrics: Genetics And Genetic Disorders,1,1,1.000000,0
+Clinical Medicine,Pediatrics: Jipmer 2018,1,0,0.000000,0
+Clinical Medicine,Pediatrics: Kidney,1,1,1.000000,0
+Clinical Medicine,Pharmacology: All India Exam,1,1,1.000000,0
+Clinical Medicine,Pharmacology: Other Topics And Adverse Effects,1,1,1.000000,0
+Clinical Medicine,Pharmacology: Pharmacokinetics,1,1,1.000000,0
+Clinical Medicine,"Physiology: Heart, Circulation, And Blood",1,1,1.000000,0
+Clinical Medicine,Physiology: Respiratory System Pa 3,1,0,0.000000,0
+Clinical Medicine,Radiology,1,1,1.000000,0
+Clinical Medicine,Social & Preventive Medicine: Fmge 2018,1,0,0.000000,0
+Clinical Medicine,Social & Preventive Medicine: Health Care Of Community & International Health,1,0,0.000000,0
+Clinical Medicine,Social & Preventive Medicine: Respiratory Infections,1,0,0.000000,0
+Clinical Medicine,Surgery: Cardio Thoracic Surgery,1,1,1.000000,0
+Clinical Medicine,Surgery: Fluid & Electrolyte,1,0,0.000000,0
+Clinical Medicine,Surgery: Heart & Pericardium,1,1,1.000000,0
+Clinical Medicine,Surgery: Nervous System,1,1,1.000000,0
+Clinical Medicine,"Surgery: Robotics, Laparoscopy And Bariatric Surgery",1,1,1.000000,0
+Clinical Medicine,Surgery: Urology,1,1,1.000000,0
+Earth Science,Ecohydrology,1,1,1.000000,0
+Earth Science,Environmental Oceanography,1,1,1.000000,0
+Earth Science,Experimental Geophysics,1,1,1.000000,0
+Earth Science,Geodynamics,1,1,1.000000,0
+Earth Science,Geothermal Science,1,1,1.000000,0
+Earth Science,Hydrogeology,1,1,1.000000,0
+Earth Science,Paleogeography,1,1,1.000000,0
+Earth Science,Regional Hydrology,1,1,1.000000,0
+Earth Science,Remote Sensing Geology,1,1,1.000000,0
+Earth Science,Stratigraphy,1,1,1.000000,0
+Earth Science,Structural Geology,1,1,1.000000,0
+Life Sciences,Laboratory Safety Test Mcq,1,1,1.000000,0
+Life Sciences,Landscape Ecology,1,1,1.000000,0

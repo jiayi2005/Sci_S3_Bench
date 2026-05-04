@@ -1,0 +1,16 @@
+metric,count
+total_samples,5681
+computer_science,438
+csbench_mcq,426
+cybersecurity_qa,0
+code_generation,0
+domain:Chemistry,782
+domain:Clinical Medicine,675
+domain:Genomics,663
+domain:Climate Science,645
+domain:Life Sciences,610
+domain:Materials Science,609
+domain:Physics,573
+domain:Earth Science,562
+domain:Computer Science,438
+domain:Astronomy,124

@@ -5,7 +5,7 @@
 !.gitignore
 !README.md
 
-# Keep selected data/analysis tree skeleton.
+# Keep curated data and analysis trees.
 !data/
 !data/domain_analysis/
 !data/domain_analysis/scripts/
@@ -13,10 +13,30 @@
 !data/domain_analysis/*.csv
 !data/domain_analysis/*.md
 
+!data/final_results/
+!data/final_results/*.jsonl
+!data/final_results/*.csv
+!data/final_results/*.md
+!data/final_results/quality_audit/
+!data/final_results/quality_audit/*.jsonl
+!data/final_results/quality_audit/*.csv
+!data/final_results/quality_audit/*.md
+
 !data/speech_sensitive_selection_v3_no_codegen_filtered/
 !data/speech_sensitive_selection_v3_no_codegen_filtered/selected_filtered.jsonl
 !data/speech_sensitive_selection_v3_no_codegen_filtered/*.csv
 !data/speech_sensitive_selection_v3_no_codegen_filtered/*.md
+
+# Text model evaluation scripts and compact reports/metrics.
+!eval_text_models/
+!eval_text_models/scripts/
+!eval_text_models/scripts/*.py
+!eval_text_models/outputs/
+!eval_text_models/outputs/*.md
+!eval_text_models/outputs/*/
+!eval_text_models/outputs/*/*_report.md
+!eval_text_models/outputs/*/full_metrics/
+!eval_text_models/outputs/*/full_metrics/*.csv
 
 # Explicitly exclude raw datasets and intermediate outputs.
 data/MedMCQA/
@@ -44,6 +64,15 @@ data/speech_sensitive_selection_v3_no_codegen_filtered/csbench_rejected.jsonl
 data/speech_sensitive_selection_v3_no_codegen_filtered/csbench_selected.jsonl
 data/speech_sensitive_selection_v3_no_codegen_filtered/computer_science_selected_sources.jsonl
 data/speech_sensitive_selection_v3_no_codegen_filtered/cybersecurity_*.jsonl
+
+# Exclude heavy/derived text-model outputs.
+eval_text_models/outputs/mcqa_eval_input.jsonl
+eval_text_models/outputs/mcqa_invalid_gold_mapping.jsonl
+eval_text_models/outputs/*/predictions_*.jsonl
+eval_text_models/outputs/*/invalid_*.jsonl
+eval_text_models/outputs/*/full_run.log
+eval_text_models/outputs/*/sample20_metrics/
+eval_text_models/outputs/*/full_metrics/error_cases.jsonl
 
 # Runtime/cache artifacts.
 __pycache__/

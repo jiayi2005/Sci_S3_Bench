@@ -1,0 +1,16 @@
+dataset,count,correct,accuracy,invalid_or_error
+SciKnowEval,1336,1062,0.794910,0
+CSBench_MCQ,426,355,0.833333,0
+MedMCQA,398,315,0.791457,0
+Genome-Bench,250,171,0.684000,0
+ChemBench,192,127,0.661458,0
+EarthSE_Earth-Iron,154,139,0.902597,0
+MedQA_USMLE,129,84,0.651163,0
+ClimaQA_silver,126,103,0.817460,0
+Astro-QA,119,88,0.739496,0
+Lab-Bench,118,44,0.372881,0
+MedXpertQA,82,16,0.195122,0
+EarthSE_Earth-Silver,78,45,0.576923,0
+PubMedQA,66,48,0.727273,0
+MaScQA,58,52,0.896552,0
+ClimaQA_gold,41,36,0.878049,0

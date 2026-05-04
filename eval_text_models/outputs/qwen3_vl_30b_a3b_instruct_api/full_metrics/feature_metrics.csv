@@ -1,0 +1,13 @@
+feature,count,correct,accuracy,invalid_or_error
+abbreviation,3411,2423,0.710349,0
+code_expression,11,9,0.818182,0
+computer_science_domain_term,416,328,0.788462,0
+computer_science_term,416,328,0.788462,0
+exact_text_expression,2606,1723,0.661167,0
+formula_or_expression,1920,1234,0.642708,0
+gene_or_sequence,510,301,0.590196,0
+spoken_written_mismatch,3570,2528,0.708123,0
+strong_oov_min1,3061,2140,0.699118,0
+text_easy_proxy,3573,2529,0.707809,0
+unit,1275,869,0.681569,0
+weak_oov_min10,3128,2193,0.701087,0

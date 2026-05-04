@@ -1,0 +1,11 @@
+domain,count,correct,accuracy,invalid_or_error
+Clinical Medicine,675,463,0.685926,0
+Materials Science,567,394,0.694885,0
+Chemistry,527,412,0.781784,0
+Computer Science,426,355,0.833333,0
+Physics,415,375,0.903614,0
+Genomics,250,171,0.684000,0
+Climate Science,242,194,0.801653,0
+Life Sciences,228,134,0.587719,0
+Earth Science,124,99,0.798387,0
+Astronomy,119,88,0.739496,0

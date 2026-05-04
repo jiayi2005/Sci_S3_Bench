@@ -1,0 +1,16 @@
+file,description,count_or_rows,source_path
+selected_filtered.jsonl,quality-checked final selected dataset,5681,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/selected_filtered.jsonl
+README.md,final result summary,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/README.md
+final_counts_summary.csv,compact final counts,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/final_counts_summary.csv
+domain_distribution.csv,final domain distribution,10,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/domain_distribution.csv
+question_type_distribution.csv,final question type distribution,7,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/question_type_distribution.csv
+dataset_distribution.csv,final dataset distribution,22,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/dataset_distribution.csv
+domain_subdomain_distribution.csv,final domain/subdomain distribution,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/domain_subdomain_distribution.csv
+selection_filtered_analysis.md,final selection analysis report,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/selection_filtered_analysis.md
+computer_science_addition_report.md,updated Computer Science integration report,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/computer_science_addition_report.md
+quality_audit/quality_audit_report.md,"strict full-record audit report, 0 flags",,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/quality_audit/quality_audit_report.md
+quality_audit/quality_checked_report.md,quality cleaning removal report,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/quality_audit/quality_checked_report.md
+quality_audit/removed_by_quality_audit.jsonl,removed duplicate/weak-evidence records,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/quality_audit/removed_by_quality_audit.jsonl
+merged_dataset_summary.csv,source dataset/domain summary,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/merged_dataset_summary.csv
+merged_domain_subdomain_counts.csv,source domain/subdomain summary,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/merged_domain_subdomain_counts.csv
+domain_taxonomy_v2.md,10-domain taxonomy notes,,/DB/rhome/heyangliu/sci_s2s_bench/data/final_results/domain_taxonomy_v2.md

@@ -1,67 +1,67 @@
 domain,feature,selected_count,share_within_domain,share_total
-Astronomy,spoken_written_mismatch,124,1.0,0.0217
+Astronomy,spoken_written_mismatch,124,1.0,0.0218
 Astronomy,abbreviation,86,0.6935,0.0151
-Astronomy,weak_oov_min10,76,0.6129,0.0133
-Astronomy,strong_oov_min1,68,0.5484,0.0119
+Astronomy,weak_oov_min10,76,0.6129,0.0134
+Astronomy,strong_oov_min1,68,0.5484,0.012
 Astronomy,unit,50,0.4032,0.0088
 Astronomy,formula_or_expression,20,0.1613,0.0035
-Chemistry,spoken_written_mismatch,782,1.0,0.137
-Chemistry,formula_or_expression,761,0.9731,0.1333
-Chemistry,abbreviation,745,0.9527,0.1305
-Chemistry,weak_oov_min10,688,0.8798,0.1205
-Chemistry,strong_oov_min1,680,0.8696,0.1191
-Chemistry,unit,230,0.2941,0.0403
+Chemistry,spoken_written_mismatch,782,1.0,0.1377
+Chemistry,formula_or_expression,761,0.9731,0.134
+Chemistry,abbreviation,745,0.9527,0.1311
+Chemistry,weak_oov_min10,688,0.8798,0.1211
+Chemistry,strong_oov_min1,680,0.8696,0.1197
+Chemistry,unit,230,0.2941,0.0405
 Chemistry,gene_or_sequence,8,0.0102,0.0014
-Climate Science,spoken_written_mismatch,645,1.0,0.113
-Climate Science,abbreviation,616,0.955,0.1079
-Climate Science,weak_oov_min10,514,0.7969,0.09
-Climate Science,strong_oov_min1,487,0.755,0.0853
-Climate Science,formula_or_expression,162,0.2512,0.0284
-Climate Science,unit,128,0.1984,0.0224
-Clinical Medicine,abbreviation,691,1.0,0.121
-Clinical Medicine,spoken_written_mismatch,691,1.0,0.121
-Clinical Medicine,strong_oov_min1,691,1.0,0.121
-Clinical Medicine,weak_oov_min10,691,1.0,0.121
-Clinical Medicine,unit,650,0.9407,0.1139
-Clinical Medicine,formula_or_expression,571,0.8263,0.1
-Clinical Medicine,gene_or_sequence,62,0.0897,0.0109
-Computer Science,spoken_written_mismatch,443,0.9933,0.0776
-Computer Science,computer_science_term,422,0.9462,0.0739
-Computer Science,abbreviation,358,0.8027,0.0627
-Computer Science,weak_oov_min10,142,0.3184,0.0249
-Computer Science,strong_oov_min1,98,0.2197,0.0172
-Computer Science,formula_or_expression,68,0.1525,0.0119
-Computer Science,unit,26,0.0583,0.0046
-Computer Science,code_expression,22,0.0493,0.0039
-Earth Science,spoken_written_mismatch,562,1.0,0.0984
-Earth Science,weak_oov_min10,549,0.9769,0.0962
-Earth Science,abbreviation,545,0.9698,0.0955
-Earth Science,strong_oov_min1,538,0.9573,0.0942
-Earth Science,unit,76,0.1352,0.0133
+Climate Science,spoken_written_mismatch,645,1.0,0.1135
+Climate Science,abbreviation,616,0.955,0.1084
+Climate Science,weak_oov_min10,514,0.7969,0.0905
+Climate Science,strong_oov_min1,487,0.755,0.0857
+Climate Science,formula_or_expression,162,0.2512,0.0285
+Climate Science,unit,128,0.1984,0.0225
+Clinical Medicine,abbreviation,675,1.0,0.1188
+Clinical Medicine,spoken_written_mismatch,675,1.0,0.1188
+Clinical Medicine,strong_oov_min1,675,1.0,0.1188
+Clinical Medicine,weak_oov_min10,675,1.0,0.1188
+Clinical Medicine,unit,634,0.9393,0.1116
+Clinical Medicine,formula_or_expression,557,0.8252,0.098
+Clinical Medicine,gene_or_sequence,62,0.0919,0.0109
+Computer Science,spoken_written_mismatch,435,0.9932,0.0766
+Computer Science,computer_science_term,416,0.9498,0.0732
+Computer Science,abbreviation,354,0.8082,0.0623
+Computer Science,weak_oov_min10,140,0.3196,0.0246
+Computer Science,strong_oov_min1,96,0.2192,0.0169
+Computer Science,formula_or_expression,67,0.153,0.0118
+Computer Science,unit,26,0.0594,0.0046
+Computer Science,code_expression,19,0.0434,0.0033
+Earth Science,spoken_written_mismatch,562,1.0,0.0989
+Earth Science,weak_oov_min10,549,0.9769,0.0966
+Earth Science,abbreviation,545,0.9698,0.0959
+Earth Science,strong_oov_min1,538,0.9573,0.0947
+Earth Science,unit,76,0.1352,0.0134
 Earth Science,formula_or_expression,37,0.0658,0.0065
-Genomics,spoken_written_mismatch,663,1.0,0.1161
-Genomics,abbreviation,660,0.9955,0.1156
-Genomics,weak_oov_min10,657,0.991,0.1151
-Genomics,strong_oov_min1,655,0.9879,0.1147
-Genomics,gene_or_sequence,649,0.9789,0.1137
-Genomics,formula_or_expression,219,0.3303,0.0384
-Genomics,unit,59,0.089,0.0103
-Life Sciences,spoken_written_mismatch,610,1.0,0.1068
-Life Sciences,weak_oov_min10,602,0.9869,0.1054
-Life Sciences,abbreviation,598,0.9803,0.1047
-Life Sciences,strong_oov_min1,594,0.9738,0.104
-Life Sciences,gene_or_sequence,493,0.8082,0.0864
-Life Sciences,formula_or_expression,357,0.5852,0.0625
-Life Sciences,unit,209,0.3426,0.0366
-Materials Science,spoken_written_mismatch,613,1.0,0.1074
-Materials Science,abbreviation,559,0.9119,0.0979
-Materials Science,weak_oov_min10,550,0.8972,0.0963
-Materials Science,strong_oov_min1,548,0.894,0.096
-Materials Science,formula_or_expression,470,0.7667,0.0823
-Materials Science,unit,228,0.3719,0.0399
-Physics,spoken_written_mismatch,573,1.0,0.1004
-Physics,abbreviation,461,0.8045,0.0807
-Physics,weak_oov_min10,420,0.733,0.0736
-Physics,strong_oov_min1,414,0.7225,0.0725
-Physics,formula_or_expression,239,0.4171,0.0419
+Genomics,spoken_written_mismatch,663,1.0,0.1167
+Genomics,abbreviation,660,0.9955,0.1162
+Genomics,weak_oov_min10,657,0.991,0.1156
+Genomics,strong_oov_min1,655,0.9879,0.1153
+Genomics,gene_or_sequence,649,0.9789,0.1142
+Genomics,formula_or_expression,219,0.3303,0.0385
+Genomics,unit,59,0.089,0.0104
+Life Sciences,spoken_written_mismatch,610,1.0,0.1074
+Life Sciences,weak_oov_min10,602,0.9869,0.106
+Life Sciences,abbreviation,598,0.9803,0.1053
+Life Sciences,strong_oov_min1,594,0.9738,0.1046
+Life Sciences,gene_or_sequence,493,0.8082,0.0868
+Life Sciences,formula_or_expression,357,0.5852,0.0628
+Life Sciences,unit,209,0.3426,0.0368
+Materials Science,spoken_written_mismatch,609,1.0,0.1072
+Materials Science,abbreviation,555,0.9113,0.0977
+Materials Science,weak_oov_min10,546,0.8966,0.0961
+Materials Science,strong_oov_min1,544,0.8933,0.0958
+Materials Science,formula_or_expression,466,0.7652,0.082
+Materials Science,unit,228,0.3744,0.0401
+Physics,spoken_written_mismatch,573,1.0,0.1009
+Physics,abbreviation,461,0.8045,0.0811
+Physics,weak_oov_min10,420,0.733,0.0739
+Physics,strong_oov_min1,414,0.7225,0.0729
+Physics,formula_or_expression,239,0.4171,0.0421
 Physics,unit,62,0.1082,0.0109

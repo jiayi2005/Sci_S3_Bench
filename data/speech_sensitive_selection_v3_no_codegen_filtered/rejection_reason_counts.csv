@@ -1,8 +1,8 @@
 reason,rejected_count,share_of_raw
-missing_or_empty_answer,275,0.0422
-low_score_too_few_critical_spans,232,0.0356
-image_or_figure_dependent,169,0.0259
-score_below_45,126,0.0193
+missing_or_empty_answer,275,0.0424
+low_score_too_few_critical_spans,232,0.0357
+image_or_figure_dependent,169,0.026
+score_below_45,126,0.0194
 code_related,89,0.0137
 very_long_sequence,49,0.0075
 low_score_without_exact_speech_feature,26,0.004
